@@ -8,19 +8,19 @@ This project aims to predict fanfiction story success from various literary qual
 
 Data is provided in the data_full.csv file and contains the following columns:
 
-kudos (num): Success of the fanfiction story (dependent variable)
+`kudos (num)`: Success of the fanfiction story (dependent variable)
 
-ARI: Automated Readability Index
+`ARI`: Automated Readability Index
 
-FG: Flesch Grade
+`FG`: Flesch Grade
 
-FE: Flesch Ease
+`FE`: Flesch Ease
 
-MSTTR: Mean Segmental Type-Token Ratio
+`MSTTR`: Mean Segmental Type-Token Ratio
 
-words: Number of words in the fanfiction story
+`words`: Number of words in the fanfiction story
 
-comm: Number of comments on the fanfiction story
+`comm`: Number of comments on the fanfiction story
 
 
 ## Objective
